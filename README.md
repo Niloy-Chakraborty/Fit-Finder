@@ -13,7 +13,7 @@ A Deep Learning Project that aims to recommend size (dimension) of a dress or pr
 # About
 Coming Soon !
 
-<a name="dependencies"></a>
+<a name="Dependencies"></a>
 # dependencies
 Coming Soon !
 
