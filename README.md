@@ -21,7 +21,10 @@ and articles for size and fit prediction. For details please refer to [this](htt
 
 <a name="Dependencies"></a>
 ### dependencies
-Coming Soon !
+Download the dependencies from requirement.txt.
+```
+pip install requirement.txt
+```
 
 <a name="data"></a>
 ### data 
