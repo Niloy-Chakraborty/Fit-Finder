@@ -44,3 +44,4 @@ In case of error, feel free to contact us over Linkedin at [Adnan](https://www.l
 
 ### Reference
 1. [A Deep Learning System for Predicting Size and Fit in Fashion](https://arxiv.org/pdf/1907.09844.pdf)
+2. [Decomposing Fit Semantics for Product Size Recommendation in Metric Spaces](http://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18e.pdf)
