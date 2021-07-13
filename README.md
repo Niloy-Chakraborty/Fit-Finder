@@ -40,7 +40,7 @@ Data can be found from [kaggle](https://www.kaggle.com/rmisra/clothing-fit-datas
 
 <a name="info"></a>
 ### Additional Information
-In case of error, feel free to contact us over Linkedin at [Adnan](https://www.linkedin.com/in/adnan-karol-aa1666179/) and [Niloy](https://www.linkedin.com/in/niloy-chakraborty/).
+In case of error, feel free to contact us over Linkedin at [Niloy](https://www.linkedin.com/in/niloy-chakraborty/) and [Adnan](https://www.linkedin.com/in/adnan-karol-aa1666179/).
 
 ### Reference
 1. [A Deep Learning System for Predicting Size and Fit in Fashion](https://arxiv.org/pdf/1907.09844.pdf)
