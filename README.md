@@ -34,4 +34,4 @@ Data can be found from [kaggle](https://www.kaggle.com/rmisra/clothing-fit-datas
 <a name="info"></a>
 ### Additional Information
 In case of error, feel free to contact us over Linkedin at [Adnan](https://www.linkedin.com/in/adnan-karol-aa1666179/) and [Niloy](https://www.linkedin.com/in/niloy-chakraborty/).
-)
+
