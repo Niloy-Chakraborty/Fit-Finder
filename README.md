@@ -11,7 +11,8 @@ A Deep Learning Project that aims to recommend size (dimension) of a dress or pr
 
 <a name="about"></a>
 # About
-Coming Soon !
+SFnet, a deep learning based methodology which combines collaborative and content-based modeling techniques to learn input and latent representations of customers
+and articles for size and fit prediction.
 
 <a name="Dependencies"></a>
 # dependencies
