@@ -20,14 +20,14 @@ and articles for size and fit prediction. For details please refer to [this](htt
 
 
 <a name="Dependencies"></a>
-### dependencies
+### Dependencies
 Download the dependencies from requirement.txt.
 ```
 pip install requirement.txt
 ```
 
 <a name="data"></a>
-### data 
+### Data 
 Modcloth dataset is used to build this recommender system. The dataset contains 47,958 customer data, 1,378 products and 82,790 transactions.
 Data can be found from [kaggle](https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation)
 
