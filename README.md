@@ -5,8 +5,9 @@ A Deep Learning Project that aims to recommend size (dimension) of a dress or pr
 
 ## Table of Contents
 1. [ About. ](#about)
-2. [ Dependencies. ](#dependencies)
-3. [ Additional Information. ](#info)
+2. [ Data. ](#data)
+3. [ Dependencies. ](#dependencies)
+4. [ Additional Information. ](#info)
 
 
 <a name="about"></a>
@@ -21,6 +22,11 @@ and articles for size and fit prediction. For details please refer to [this](htt
 <a name="Dependencies"></a>
 # dependencies
 Coming Soon !
+
+<a name="data"></a>
+# data 
+Modcloth dataset is used to build this recommender system. The dataset contains 47,958 customer data, 1,378 products and 82,790 transactions.
+Data can be found from [kaggle](https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation)
 
 <a name="info"></a>
 # Additional Information
